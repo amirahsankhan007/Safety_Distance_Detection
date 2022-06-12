@@ -1,7 +1,6 @@
 # Hand Detection and Distance Estimation
 Uses Tensorflow Object Detection API to detect and track hands in real-time, as well as estimate their distance from the camera
 
-![hand_detection](https://user-images.githubusercontent.com/25287427/42243870-bb1112a0-7ee0-11e8-9054-9bfe80a950a7.gif)
 
 ## Getting Started
 
@@ -18,11 +17,6 @@ To run the hand detection python script run:
 ``` bash
 python hand_detection
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
 * Victor Dibia - [Real-time Hand Detection](https://github.com/victordibia/handtracking)
